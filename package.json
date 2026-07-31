@@ -1,5 +1,5 @@
 {
-  "name": "@digitalocean/dots",
+  "name": "@anup-deka/dots",
   "type": "module",
   "version": "1.18.0",
   "description": "TypeScript client generator based on DigitalOcean's OpenAPI specification.",
